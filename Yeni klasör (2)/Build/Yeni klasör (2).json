@@ -1,0 +1,13 @@
+{
+"companyName": "Company",
+"productName": "ucakdg",
+"dataUrl": "Yeni klasör (2).data.unityweb",
+"asmCodeUrl": "Yeni klasör (2).asm.code.unityweb",
+"asmMemoryUrl": "Yeni klasör (2).asm.memory.unityweb",
+"asmFrameworkUrl": "Yeni klasör (2).asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
